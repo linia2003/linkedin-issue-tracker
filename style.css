@@ -5,23 +5,20 @@ body {
     font-style: normal;
 }
 
-/* Button*/
+
 .btn-primary {
     background-color: #4a00ff !important;
 }
 
-/* Input focus*/
 .input:focus {
     outline: none !important;
     border-color: #4a00ff !important;
 }
 
-/*input text color */
 .input {
     color: #64748b;
 }
 
-/* fonts */
 input, button, label {
     font-family: "Geist", sans-serif !important;
 }
